@@ -1,5 +1,6 @@
                                                              SHΛÐΞSФŦÐΞΛТH
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=berkays0733.berkays0733)
 <img align='left' src='https://64.media.tumblr.com/62710c9aed5c3f4b7d23700e39bf13a6/ac2a7e65e2f3ff68-50/s400x600/5cc45aa070225393dfe9efb5e648f0cb09c1ca09.gifv' width='300'>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=berkays0733&show_icons=true&theme=radical)](https://github.com/berkays0733)
